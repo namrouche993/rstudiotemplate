@@ -7,6 +7,8 @@ install.packages("shinythemes")
 install.packages("shinyWidgets")
 install.packages("shinycssloaders")
 install.packages("shinyBS")
+install.packages("fresh")
+
 
 install.packages("leaflet.extras")
 
